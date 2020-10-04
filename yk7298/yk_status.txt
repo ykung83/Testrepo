@@ -1,0 +1,21 @@
+(base) Yung-Chis-MacBook-Air:Testrepo Games$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+yk7298/yk_noadd.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+
+This means that the only file in my local repository that is different from 
+the remote repository is the file 'yk_noadd.txt' in the 'yk7298' directory. 
+This means that even though I can see the file on my local machine, the 
+other people who have access to the repository cannot see it. In addition,
+it means I have not added and commited it yet which means even if I used
+git push the file 'yk_noadd.txt' would not show up in the remote repository. 
+If I had used git add on the file, git status would also show that there are
+modifications that have not been commited and pushed. 
