@@ -1,0 +1,1 @@
+I have some experience with git since I worked with Texas Aerial Robotics for a bit. The experience has been ok, it seems a bit tough for beginners but I can definetly see the advatages to using git over something like a google drive for coding. No real hurdles so far, it has mostly been just pulling data fro mthe remote repository and reading it. 
