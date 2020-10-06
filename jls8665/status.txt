@@ -1,0 +1,10 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        _noadd.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+############################################################################
+This means that the untracked file _noadd is untracked because it only exists on my local folder and not in the git repo. The status says it's untracked since it hasn't been merged with the repo, so basically  it looks like I made a change and didn't save it.
