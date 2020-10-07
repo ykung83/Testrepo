@@ -1,0 +1,5 @@
+Alex Saldana
+
+I have not used Github/git in all of my college experience so this has been a bit of a challenge to understand. Regardless Im learning and it just takes a lot of practice to use these functions. Its just like coding, theres a massive learning curve that only practice will help with. Using shell has also been hard because I only have used MATLAB over the course of my time at UT. I have about 2 years with C++ but it is still not enough to even be considered a 'mid' level programmer. 
+I do actually like Github, its extremely efficient to use. Instead of downloading file after file I can just pull everything out of the repository and have it ready for use. The only major hurdle ive experienced is just... learning how to use Github. There was a problem early on where I couldnt open any of the files through the shell, but after a few tutorial videos and google search I was able to figure out what I was doing wrong. 
+
